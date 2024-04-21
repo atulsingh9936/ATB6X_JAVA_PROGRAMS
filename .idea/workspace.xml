@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0cc8919-c047-4e14-8eb1-34ea3e46a5d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0051.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0053.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0054.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0055.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0056.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0057.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0058.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0059.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0060.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0061.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0062.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0063.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0064.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0065.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_20_04_2024/Lab_0066.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_home_work/Assignment_max_min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_home_work/Question_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_home_work/question_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_home_work/question_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +55,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Assignment_max_min.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.IQ_0002.executor": "Run",
     "Application.IQ_003.executor": "Run",
@@ -121,8 +109,12 @@
     "Application.Lab_0065.executor": "Run",
     "Application.Lab_0066.executor": "Run",
     "Application.Lab_011.executor": "Run",
+    "Application.Question_2.executor": "Run",
     "Application.lab_0033.executor": "Run",
     "Application.lab_0036.executor": "Run",
+    "Application.lab_0067.executor": "Run",
+    "Application.question_3.executor": "Run",
+    "Application.question_4.executor": "Run",
     "Application.smallcase.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -136,13 +128,13 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lab_0067">
-    <configuration name="Lab_0061" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_20_04_2024.Lab_0061" />
+  <component name="RunManager" selected="Application.question_4">
+    <configuration name="Assignment_max_min" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_home_work.Assignment_max_min" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_20_04_2024.*" />
+          <option name="PATTERN" value="java_home_work.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,38 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_0064" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_20_04_2024.Lab_0064" />
+    <configuration name="Question_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_home_work.Question_2" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_20_04_2024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_0065" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_20_04_2024.Lab_0065" />
-      <module name="ATB6X_JAVA_PROGRAMS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercise_20_04_2024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_0066" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_20_04_2024.Lab_0066" />
-      <module name="ATB6X_JAVA_PROGRAMS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercise_20_04_2024.*" />
+          <option name="PATTERN" value="java_home_work.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,7 +160,33 @@
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_20_04_2024.*" />
+          <option name="PATTERN" value="java_home_work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="question_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_home_work.question_3" />
+      <module name="ATB6X_JAVA_PROGRAMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_home_work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="question_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_home_work.question_4" />
+      <module name="ATB6X_JAVA_PROGRAMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_home_work.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.question_4" />
+        <item itemvalue="Application.question_3" />
+        <item itemvalue="Application.Question_2" />
+        <item itemvalue="Application.Assignment_max_min" />
         <item itemvalue="Application.lab_0067" />
-        <item itemvalue="Application.Lab_0066" />
-        <item itemvalue="Application.Lab_0065" />
-        <item itemvalue="Application.Lab_0064" />
-        <item itemvalue="Application.Lab_0061" />
       </list>
     </recent_temporary>
   </component>
