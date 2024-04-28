@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0cc8919-c047-4e14-8eb1-34ea3e46a5d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_home_work/Assignment_max_min.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_home_work/Question_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_home_work/question_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_home_work/question_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_23042024/LAB_0072.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_23042024/Lab_0070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_23042024/Lab_0071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_23042024/Lab_0074.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_23042024/Lab_0075.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_23042024/Lab_0077.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_23042024/Lab_0078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_23042024/lab_0068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_23042024/lab_0069.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_23042024/lab_0073.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_23042024/lab_0076.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_23042024/lab_0079.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +67,7 @@
     "Application.HelloWorld.executor": "Run",
     "Application.IQ_0002.executor": "Run",
     "Application.IQ_003.executor": "Run",
+    "Application.LAB_0072.executor": "Run",
     "Application.Lab004.executor": "Run",
     "Application.Lab008.executor": "Run",
     "Application.Lab009.executor": "Run",
@@ -108,11 +117,22 @@
     "Application.Lab_0064.executor": "Run",
     "Application.Lab_0065.executor": "Run",
     "Application.Lab_0066.executor": "Run",
+    "Application.Lab_0068.executor": "Run",
+    "Application.Lab_0070.executor": "Run",
+    "Application.Lab_0071.executor": "Debug",
+    "Application.Lab_0074.executor": "Run",
+    "Application.Lab_0075.executor": "Run",
+    "Application.Lab_0077.executor": "Run",
+    "Application.Lab_0078.executor": "Run",
     "Application.Lab_011.executor": "Run",
     "Application.Question_2.executor": "Run",
     "Application.lab_0033.executor": "Run",
     "Application.lab_0036.executor": "Run",
     "Application.lab_0067.executor": "Run",
+    "Application.lab_0069.executor": "Run",
+    "Application.lab_0073.executor": "Run",
+    "Application.lab_0076.executor": "Run",
+    "Application.lab_0079.executor": "Run",
     "Application.question_3.executor": "Run",
     "Application.question_4.executor": "Run",
     "Application.smallcase.executor": "Run",
@@ -128,13 +148,13 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.question_4">
-    <configuration name="Assignment_max_min" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_home_work.Assignment_max_min" />
+  <component name="RunManager" selected="Application.lab_0079">
+    <configuration name="Lab_0075" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_23042024.Lab_0075" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_home_work.*" />
+          <option name="PATTERN" value="Exercise_23042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_home_work.Question_2" />
+    <configuration name="Lab_0077" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_23042024.Lab_0077" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_home_work.*" />
+          <option name="PATTERN" value="Exercise_23042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab_0067" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_20_04_2024.lab_0067" />
+    <configuration name="Lab_0078" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_23042024.Lab_0078" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_home_work.*" />
+          <option name="PATTERN" value="Exercise_23042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="question_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_home_work.question_3" />
+    <configuration name="lab_0076" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_23042024.lab_0076" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_home_work.*" />
+          <option name="PATTERN" value="Exercise_23042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="question_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_home_work.question_4" />
+    <configuration name="lab_0079" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_23042024.lab_0079" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_home_work.*" />
+          <option name="PATTERN" value="Exercise_23042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.question_4" />
-        <item itemvalue="Application.question_3" />
-        <item itemvalue="Application.Question_2" />
-        <item itemvalue="Application.Assignment_max_min" />
-        <item itemvalue="Application.lab_0067" />
+        <item itemvalue="Application.lab_0079" />
+        <item itemvalue="Application.Lab_0078" />
+        <item itemvalue="Application.Lab_0077" />
+        <item itemvalue="Application.lab_0076" />
+        <item itemvalue="Application.Lab_0075" />
       </list>
     </recent_temporary>
   </component>
