@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0cc8919-c047-4e14-8eb1-34ea3e46a5d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercise_30042024/Lab_0123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_30042024/Lab_0124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Home_Work_2/Homework_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Home_Work_2/Homework_2_largest_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Home_Work_2/Homework_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Home_Work_2/Homework_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Home_Work_2/Homework_5_primenumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Home_Work_2/Homework_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Home_Work_2/Homework_switch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,20 +181,7 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_0124">
-    <configuration name="Homework_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Home_Work_2.Homework_3" />
-      <module name="ATB6X_JAVA_PROGRAMS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Home_Work_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Homework_switch">
     <configuration name="Homework_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Home_Work_2.Homework_4" />
       <module name="ATB6X_JAVA_PROGRAMS" />
@@ -241,6 +221,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Homework_switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Home_Work_2.Homework_switch" />
+      <module name="ATB6X_JAVA_PROGRAMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Home_Work_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab_0124" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise_30042024.Lab_0124" />
       <module name="ATB6X_JAVA_PROGRAMS" />
@@ -256,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homework_switch" />
         <item itemvalue="Application.Lab_0124" />
         <item itemvalue="Application.Homework_6" />
         <item itemvalue="Application.Homework_5_primenumber" />
         <item itemvalue="Application.Homework_4" />
-        <item itemvalue="Application.Homework_3" />
       </list>
     </recent_temporary>
   </component>
