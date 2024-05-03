@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0cc8919-c047-4e14-8eb1-34ea3e46a5d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercise_30042024/Lab_0123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_30042024/Lab_0124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Home_Work_2/Homework_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Home_Work_2/Homework_2_largest_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Home_Work_2/Homework_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Home_Work_2/Homework_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Home_Work_2/Homework_5_primenumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Home_Work_2/Homework_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_02_05_2024/Lab_0123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_02_05_2024/Lab_0125.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_02_05_2024/Lab_0126.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_02_05_2024/Lab_0127.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_02_05_2024/Lab_0128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_02_05_2024/Lab_0129.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_02_05_2024/Lab_0130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_02_05_2024/Lab_0131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_02_05_2024/Lab_0132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_02_05_2024/Lab_0133.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_02_05_2024/Lab_0134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_02_05_2024/lab_0124.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +71,7 @@
     "Application.Homework_4.executor": "Run",
     "Application.Homework_5_primenumber.executor": "Run",
     "Application.Homework_6.executor": "Run",
+    "Application.Homework_switch.executor": "Run",
     "Application.IQ_0002.executor": "Run",
     "Application.IQ_003.executor": "Run",
     "Application.LAB_0072.executor": "Run",
@@ -157,6 +162,14 @@
     "Application.Lab_0121.executor": "Run",
     "Application.Lab_0122.executor": "Run",
     "Application.Lab_0124.executor": "Run",
+    "Application.Lab_0125.executor": "Run",
+    "Application.Lab_0126.executor": "Run",
+    "Application.Lab_0127.executor": "Run",
+    "Application.Lab_0128.executor": "Run",
+    "Application.Lab_0129.executor": "Run",
+    "Application.Lab_0130.executor": "Run",
+    "Application.Lab_0131.executor": "Run",
+    "Application.Lab_0132.executor": "Run",
     "Application.Lab_080.executor": "Run",
     "Application.Lab_102.executor": "Run",
     "Application.Lab_105.executor": "Run",
@@ -173,6 +186,7 @@
     "Application.lab_0076.executor": "Run",
     "Application.lab_0079.executor": "Run",
     "Application.lab_0084.executor": "Run",
+    "Application.lab_0124.executor": "Run",
     "Application.question_3.executor": "Run",
     "Application.question_4.executor": "Run",
     "Application.smallcase.executor": "Run",
@@ -188,13 +202,13 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_0124">
-    <configuration name="Homework_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Home_Work_2.Homework_3" />
+  <component name="RunManager" selected="Application.Lab_0127">
+    <configuration name="Lab_0127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_02_05_2024.Lab_0127" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Home_Work_2.*" />
+          <option name="PATTERN" value="Exercise_02_05_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Home_Work_2.Homework_4" />
+    <configuration name="Lab_0129" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_02_05_2024.Lab_0129" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Home_Work_2.*" />
+          <option name="PATTERN" value="Exercise_02_05_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework_5_primenumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Home_Work_2.Homework_5_primenumber" />
+    <configuration name="Lab_0130" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_02_05_2024.Lab_0130" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Home_Work_2.*" />
+          <option name="PATTERN" value="Exercise_02_05_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +242,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Home_Work_2.Homework_6" />
+    <configuration name="Lab_0131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_02_05_2024.Lab_0131" />
       <module name="ATB6X_JAVA_PROGRAMS" />
+      <option name="PROGRAM_PARAMETERS" value="56 45" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Home_Work_2.*" />
+          <option name="PATTERN" value="Exercise_02_05_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_0124" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_30042024.Lab_0124" />
+    <configuration name="Lab_0132" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_02_05_2024.Lab_0132" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_30042024.*" />
+          <option name="PATTERN" value="Exercise_02_05_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,13 +269,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Lab_0132" />
+      <item itemvalue="Application.Lab_0127" />
+      <item itemvalue="Application.Lab_0129" />
+      <item itemvalue="Application.Lab_0130" />
+      <item itemvalue="Application.Lab_0131" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_0124" />
-        <item itemvalue="Application.Homework_6" />
-        <item itemvalue="Application.Homework_5_primenumber" />
-        <item itemvalue="Application.Homework_4" />
-        <item itemvalue="Application.Homework_3" />
+        <item itemvalue="Application.Lab_0127" />
+        <item itemvalue="Application.Lab_0132" />
+        <item itemvalue="Application.Lab_0131" />
+        <item itemvalue="Application.Lab_0130" />
+        <item itemvalue="Application.Lab_0129" />
       </list>
     </recent_temporary>
   </component>
