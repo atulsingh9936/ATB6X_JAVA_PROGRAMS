@@ -1,4 +1,4 @@
-package May.Exercise_02_05_2024.Arraypractice;
+package May.Exercise_02_05_2024.Arrayhomework;
 
 public class array_homework_3 {
     public static void main(String[] args) {
