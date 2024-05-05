@@ -1,4 +1,4 @@
-package May.Exercise_02_05_2024.Arraypractice;
+package May.Exercise_02_05_2024.Arrayhomework;
 
 import java.util.Scanner;
 
