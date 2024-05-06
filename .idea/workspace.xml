@@ -5,20 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0cc8919-c047-4e14-8eb1-34ea3e46a5d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Max_numberinarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/P8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Reverse_an_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/add_two_matrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/min_numberinarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/p10_sumof_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/p11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/p12_averageof_program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/p7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/p9_multidimension_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0135.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0137.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0138.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0140.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_04_05_2024/lab_0144.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Arraypractice/array_homework_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Arrayhomework/array_homework_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Arraypractice/array_homework_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Arrayhomework/array_homework_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Arraypractice/array_homework_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Arrayhomework/array_homework_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,6 +169,13 @@
     "Application.Lab_0130.executor": "Run",
     "Application.Lab_0131.executor": "Run",
     "Application.Lab_0132.executor": "Run",
+    "Application.Lab_0135.executor": "Run",
+    "Application.Lab_0138.executor": "Debug",
+    "Application.Lab_0139.executor": "Debug",
+    "Application.Lab_0140.executor": "Run",
+    "Application.Lab_0141.executor": "Debug",
+    "Application.Lab_0142.executor": "Run",
+    "Application.Lab_0145.executor": "Run",
     "Application.Lab_080.executor": "Run",
     "Application.Lab_102.executor": "Run",
     "Application.Lab_105.executor": "Run",
@@ -195,6 +200,7 @@
     "Application.lab_0079.executor": "Run",
     "Application.lab_0084.executor": "Run",
     "Application.lab_0124.executor": "Run",
+    "Application.lab_0144.executor": "Run",
     "Application.min_numberinarray.executor": "Debug",
     "Application.p1.executor": "Run",
     "Application.p10_sumof_array.executor": "Run",
@@ -231,13 +237,13 @@
       <recent name="May" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.min_numberinarray">
-    <configuration name="Max_numberinarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Max_numberinarray" />
+  <component name="RunManager" selected="Application.Lab_0145">
+    <configuration name="Lab_0140" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise_04_05_2024.Lab_0140" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="exercise_04_05_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_an_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Reverse_an_array" />
+    <configuration name="Lab_0141" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise_04_05_2024.Lab_0141" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="exercise_04_05_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,12 +264,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="add_two_matrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.add_two_matrices" />
+    <configuration name="Lab_0142" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise_04_05_2024.Lab_0142" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="exercise_04_05_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +277,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="min_numberinarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.min_numberinarray" />
+    <configuration name="Lab_0145" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise_04_05_2024.Lab_0145" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="exercise_04_05_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +290,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p12_averageof_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.p12_averageof_program" />
+    <configuration name="lab_0144" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise_04_05_2024.lab_0144" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="exercise_04_05_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,19 +304,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Max_numberinarray" />
-      <item itemvalue="Application.Reverse_an_array" />
-      <item itemvalue="Application.add_two_matrices" />
-      <item itemvalue="Application.min_numberinarray" />
-      <item itemvalue="Application.p12_averageof_program" />
+      <item itemvalue="Application.Lab_0140" />
+      <item itemvalue="Application.Lab_0141" />
+      <item itemvalue="Application.Lab_0142" />
+      <item itemvalue="Application.Lab_0145" />
+      <item itemvalue="Application.lab_0144" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.min_numberinarray" />
-        <item itemvalue="Application.Max_numberinarray" />
-        <item itemvalue="Application.Reverse_an_array" />
-        <item itemvalue="Application.add_two_matrices" />
-        <item itemvalue="Application.p12_averageof_program" />
+        <item itemvalue="Application.Lab_0145" />
+        <item itemvalue="Application.lab_0144" />
+        <item itemvalue="Application.Lab_0142" />
+        <item itemvalue="Application.Lab_0141" />
+        <item itemvalue="Application.Lab_0140" />
       </list>
     </recent_temporary>
   </component>
