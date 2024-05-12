@@ -5,49 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0cc8919-c047-4e14-8eb1-34ea3e46a5d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/May/Exercise_07_04_2024/Lab_0147.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/May/Exercise_07_04_2024/Lab_0148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/May/Exercise_07_04_2024/Lab_0149.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/May/Exercise_07_04_2024/Lab_0150.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/May/Exercise_07_04_2024/Lab_0151.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/May/Exercise_07_04_2024/Lab_0152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/May/Exercise_07_04_2024/Lab_0153.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/May/Exercise_07_04_2024/Lab_0154.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/May/Exercise_07_04_2024/Lab_0155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/May/Exercise_07_04_2024/Lab_0156.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/May/Exercise_07_04_2024/Lab_0157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/May/Exercise_07_04_2024/Lab_0159.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/May/Exercise_07_04_2024/Lab_145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/May/Exercise_07_04_2024/Lab_146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/May/Exercise_07_04_2024/lab_0158.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/P13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May/String_homework/Anagram_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May/String_homework/Duplicate_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May/String_homework/Reverse_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Practice_set_chapter_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/String_practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Arrayhomework/array_homework_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Arrayhomework/array_homework_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Arrayhomework/array_homework_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Arrayhomework/array_homework_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Arrayhomework/array_homework_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Arrayhomework/array_homework_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Lab_0123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Excercise_02_05_02024/Lab_0123.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Lab_0125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Excercise_02_05_02024/Lab_0125.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Lab_0126.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Excercise_02_05_02024/Lab_0126.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Lab_0127.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Excercise_02_05_02024/Lab_0127.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Lab_0128.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Excercise_02_05_02024/Lab_0128.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Lab_0129.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Excercise_02_05_02024/Lab_0129.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Lab_0130.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Excercise_02_05_02024/Lab_0130.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Lab_0131.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Excercise_02_05_02024/Lab_0131.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Lab_0132.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Excercise_02_05_02024/Lab_0132.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Lab_0133.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Excercise_02_05_02024/Lab_0133.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/Lab_0134.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Excercise_02_05_02024/Lab_0134.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/May/Exercise_02_05_2024/lab_0124.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/Excercise_02_05_02024/lab_0124.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0135.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/exercise_04_05_2024/Lab_0135.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0136.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/exercise_04_05_2024/Lab_0136.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0137.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/exercise_04_05_2024/Lab_0137.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0138.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/exercise_04_05_2024/Lab_0138.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0139.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/exercise_04_05_2024/Lab_0139.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0140.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/exercise_04_05_2024/Lab_0140.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0141.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/exercise_04_05_2024/Lab_0141.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0142.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/exercise_04_05_2024/Lab_0142.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0143.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/exercise_04_05_2024/Lab_0143.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise_04_05_2024/Lab_0145.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/exercise_04_05_2024/Lab_0145.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise_04_05_2024/lab_0144.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/May/exercise_04_05_2024/lab_0144.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +56,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Anagram_string.executor": "Debug",
     "Application.Assignment_max_min.executor": "Run",
+    "Application.Duplicate_string.executor": "Run",
     "Application.Element_in_array.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Homework_1.executor": "Run",
@@ -231,8 +196,11 @@
     "Application.Max_numberinarray.executor": "Run",
     "Application.P13.executor": "Run",
     "Application.P8.executor": "Run",
+    "Application.Practice_set_chapter_2.executor": "Run",
     "Application.Question_2.executor": "Run",
     "Application.Reverse_an_array.executor": "Run",
+    "Application.Reverse_string.executor": "Run",
+    "Application.String_practice.executor": "Run",
     "Application.Transpose_Array.executor": "Run",
     "Application.add_two_matrices.executor": "Run",
     "Application.array_homework_1.executor": "Debug",
@@ -286,13 +254,13 @@
       <recent name="May" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab159">
-    <configuration name="Lab159" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="May.Exercise_07_04_2024.Lab159" />
+  <component name="RunManager" selected="Application.Anagram_string">
+    <configuration name="Anagram_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="May.String_homework.Anagram_string" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="May.Exercise_07_04_2024.*" />
+          <option name="PATTERN" value="May.String_homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,12 +268,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_0148" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="May.Exercise_02_05_2024.Exercise_07_04_2024.Lab_0148" />
+    <configuration name="Duplicate_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="May.String_homework.Duplicate_string" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="May.Exercise_02_05_2024.Exercise_07_04_2024.*" />
+          <option name="PATTERN" value="May.String_homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,12 +281,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_0157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="May.Exercise_02_05_2024.Exercise_07_04_2024.Lab_0157" />
+    <configuration name="Practice_set_chapter_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Practice_set_chapter_2" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="May.Exercise_02_05_2024.Exercise_07_04_2024.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,12 +294,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_146" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="May.Exercise_02_05_2024.Exercise_07_04_2024.Lab_146" />
+    <configuration name="Reverse_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="May.String_homework.Reverse_string" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="May.Exercise_02_05_2024.Exercise_07_04_2024.*" />
+          <option name="PATTERN" value="May.String_homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -339,12 +307,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab_0158" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="May.Exercise_02_05_2024.Exercise_07_04_2024.lab_0158" />
+    <configuration name="String_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.String_practice" />
       <module name="ATB6X_JAVA_PROGRAMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="May.Exercise_02_05_2024.Exercise_07_04_2024.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -353,19 +321,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab159" />
-      <item itemvalue="Application.Lab_0148" />
-      <item itemvalue="Application.Lab_0157" />
-      <item itemvalue="Application.Lab_146" />
-      <item itemvalue="Application.lab_0158" />
+      <item itemvalue="Application.Anagram_string" />
+      <item itemvalue="Application.Duplicate_string" />
+      <item itemvalue="Application.Practice_set_chapter_2" />
+      <item itemvalue="Application.Reverse_string" />
+      <item itemvalue="Application.String_practice" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab159" />
-        <item itemvalue="Application.lab_0158" />
-        <item itemvalue="Application.Lab_0148" />
-        <item itemvalue="Application.Lab_146" />
-        <item itemvalue="Application.Lab_0157" />
+        <item itemvalue="Application.Anagram_string" />
+        <item itemvalue="Application.Duplicate_string" />
+        <item itemvalue="Application.Reverse_string" />
+        <item itemvalue="Application.Practice_set_chapter_2" />
+        <item itemvalue="Application.String_practice" />
       </list>
     </recent_temporary>
   </component>
