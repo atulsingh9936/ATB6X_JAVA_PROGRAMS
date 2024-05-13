@@ -1,4 +1,4 @@
-package May.Exercise_07_04_2024;
+package May.Exercise_07_05_2024;
 
 public class lab_0158 {
     public static void main(String[] args) {
