@@ -1,0 +1,24 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æ¬êúÿÿÿÿJ$8a47f654-f0d9-4be8-88e9-95e701c3e98c
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìÜ¥ŸüÿÿÿÿJ$aa88709c-46ca-4cd0-a928-8dc583f2a462
+p
+java:S3740
+"/Provide the parametrized type for this generic.(ŞˆííûÿÿÿÿJ$fe95485f-456f-4544-ad1d-d6a2987e5b24
+p
+java:S3740
+"/Provide the parametrized type for this generic.(ŞˆííûÿÿÿÿJ$c1c03cd0-f39b-4d53-a128-bfc03e71ab11
+k
+java:S3740"/Provide the parametrized type for this generic.(íÒ«J$64305e86-9b84-4c5a-a91f-8173ce74c273
+k
+java:S3740"/Provide the parametrized type for this generic.(íÒ«J$526db30a-6d0c-427e-933a-8b6f87ca0c40
+k
+java:S3740"/Provide the parametrized type for this generic.(Ä’ˆòJ$979f4f67-ad24-41cf-8c0a-72d9553c1f92
+k
+java:S3740"/Provide the parametrized type for this generic.(Ä’ˆòJ$b27189e7-42df-4526-bc2c-ef1ec4e19fb2
+‡
+java:S1192"FDefine a constant instead of duplicating this literal "kiran" 3 times.(¢õÙùÿÿÿÿJ$4e22d0c9-e466-4abd-a256-2be85ae51afc
+¡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«J$7f747da9-47fe-4289-84c3-f9290ee64ded
+f	java:S106"+Replace this use of System.out by a logger.(ÁœõÑJ$0c1617e9-478f-4535-b978-b0862b1c59c3
+k	java:S106"+Replace this use of System.out by a logger.(Ä©‚šÿÿÿÿÿJ$8619e005-5f98-458a-8fc5-c71f6d2de37e
+k	java:S106"+Replace this use of System.out by a logger.(ÍúÀªÿÿÿÿÿJ$82fcd763-8379-40e9-99a1-1ee8cfa9a504

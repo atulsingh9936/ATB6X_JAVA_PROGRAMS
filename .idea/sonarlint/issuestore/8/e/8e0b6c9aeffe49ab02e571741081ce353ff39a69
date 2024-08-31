@@ -1,0 +1,41 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§„³èşÿÿÿÿJ$cb6c999c-0304-4d85-8a96-1936a1c0897a
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìÜ¥ŸüÿÿÿÿJ$963bbb66-e77c-4f9f-8f34-fbce18494428
+p
+java:S3740
+"/Provide the parametrized type for this generic.(ƒÃãûÿÿÿÿJ$c85e0daa-d272-4e91-84e4-ea9fcf6cc405
+p
+java:S3740
+"/Provide the parametrized type for this generic.(ƒÃãûÿÿÿÿJ$c6acc0c9-2449-4be9-b2f1-53f08deac65b
+p
+java:S3740"/Provide the parametrized type for this generic.(Îñ½‚ùÿÿÿÿJ$37256d8b-73ef-471d-af27-9288da55f1af
+p
+java:S3740"/Provide the parametrized type for this generic.(Îñ½‚ùÿÿÿÿJ$e0c02766-abc8-48d8-87f6-53a9e52b0eed
+k
+java:S3740"/Provide the parametrized type for this generic.(ÑªéÎJ$920e557a-e403-4573-bbae-44017bf63fff
+k
+java:S3740"/Provide the parametrized type for this generic.(ÑªéÎJ$80ecfcbb-518d-4386-9280-24ca307090ff
+k
+java:S3740"/Provide the parametrized type for this generic.(‡ÄçÁJ$83ad92cd-e0fd-429e-8a12-f93b5ecdbfbc
+k
+java:S3740"/Provide the parametrized type for this generic.(‡ÄçÁJ$82d713f5-0955-469c-96d0-aadc77a5ef52
+ˆ
+java:S1192"GDefine a constant instead of duplicating this literal "Pramod" 5 times.(Ÿ‹±¡ûÿÿÿÿJ$49631149-f2af-4e18-bd8a-0cf718801e4b
+w
+java:S1854";Remove this useless assignment to local variable "mylist3".(‡ÄçÁJ$d600e635-ee13-4f72-b17d-66880f1456d9
+w
+java:S1854";Remove this useless assignment to local variable "mylist2".(ÑªéÎJ$b2401a2e-bf59-4676-9538-a651dd6e545e
+|
+java:S1854
+";Remove this useless assignment to local variable "mylist1".(ƒÃãûÿÿÿÿJ$2ebe342a-4593-4c03-b867-8d6e0cbcaf5f
+m
+java:S1481
+",Remove this unused "mylist1" local variable.(ƒÃãûÿÿÿÿJ$942dffcd-6a43-468a-ae93-9e45f9d35ab3
+h
+java:S1481",Remove this unused "mylist2" local variable.(ÑªéÎJ$e88216dc-2ae9-4ef8-bd27-da0f67f16b28
+h
+java:S1481",Remove this unused "mylist3" local variable.(‡ÄçÁJ$22405de3-a8f6-453b-8f3e-871715536e18
+k	java:S106"+Replace this use of System.out by a logger.(ÁºİöøÿÿÿÿJ$cdf87f49-93e4-474c-b672-898603696d99
+k	java:S106#"+Replace this use of System.out by a logger.(ÁºİöøÿÿÿÿJ$1b6fbfbe-2f7b-4a42-8f25-d334e6c4af00
+f	java:S106%"+Replace this use of System.out by a logger.(âŒ“ÁJ$448ac86b-d74c-4b1e-badf-bb52090ec764
+k	java:S106'"+Replace this use of System.out by a logger.(ÁºİöøÿÿÿÿJ$275c5520-bc9c-4ca0-a0a7-02ac98a68bed

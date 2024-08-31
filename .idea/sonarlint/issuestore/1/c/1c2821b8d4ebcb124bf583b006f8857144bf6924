@@ -1,0 +1,13 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ğ€Í¤8İáûÌš2J$750e8bc6-03cb-4bc7-bbce-3375314a1da4
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶×ïÿûÿÿÿÿ8İáûÌš2J$687e7262-5728-4259-b534-271337f1521a
+r
+java:S3740"/Provide the parametrized type for this generic.(ÓÉåŸ8İáûÌš2J$843d479f-15c7-4d42-b98a-85b5d5248e9a
+r
+java:S3740"/Provide the parametrized type for this generic.(ÓÉåŸ8İáûÌš2J$f22eebb4-732d-4949-9dad-8bb37cab2b13
+w
+java:S3740"/Provide the parametrized type for this generic.(ñË·œüÿÿÿÿ8İáûÌš2J$2320502b-143c-49f7-a22e-16a9136e914d
+­
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÊÏ¸æùÿÿÿÿ8äáûÌš2J$482a89eb-6442-4d31-b028-8cb74c5e439a
+r	java:S106"+Replace this use of System.out by a logger.(•Ñ‘øÿÿÿÿ8äáûÌš2J$8acf8fec-de91-43bb-9d26-2413f8ed398f
+r	java:S106"+Replace this use of System.out by a logger.(İ¡©óüÿÿÿÿ8ÖıÌš2J$83877b92-2cef-47de-901a-a292852e0a02

@@ -1,0 +1,14 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(à¢Ê¶þÿÿÿÿ8Šû Ìš2J$1ff88816-8624-407d-a216-6616338f16f8
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶×ïÿûÿÿÿÿ8Šû Ìš2J$660ca0a7-7ad3-4002-9643-fffaa69ca733
+w
+java:S3740
+"/Provide the parametrized type for this generic.(ùïÐŒûÿÿÿÿ8‹û Ìš2J$448ee92e-897a-4878-8a32-110aa1b1a1f1
+r
+java:S3740,"/Provide the parametrized type for this generic.(ëäùç8½«ÐÌš2J$bdf0739a-5b38-4160-8825-272b1e70c10c
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(úù¦øÿÿÿÿ8™ç¨Ìš2J$b786fd1c-2809-4a0a-a252-13160f5550d7
+~	java:S125"<This block of commented-out lines of code should be removed.(õ›¸þ8û Ìš2J$edcafb3c-cc80-4220-8ab7-57ec2a6a166a
+ƒ	java:S125."<This block of commented-out lines of code should be removed.(Ä¥ªˆûÿÿÿÿ8½«ÐÌš2J$bba4af58-4f90-462c-93e5-72b15a55579f
+]	java:S1250"<This block of commented-out lines of code should be removed.(¿¬¬Õúÿÿÿÿ8åØÒÌš2
+r
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8”ÍÌš2J$f78f359d-0d91-4018-8393-cd4a358b573c
