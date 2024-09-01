@@ -1,0 +1,17 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(½òÈÍ8ñõÔóš2J$6503ec20-c267-48b9-9183-561392c0417c
+˜	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ë¹ùúÿÿÿÿ8ñõÔóš2J$267a348b-7704-478d-a7b6-3bd17fda5f18
+w
+java:S3740
+"/Provide the parametrized type for this generic.(¡Ë¹ùúÿÿÿÿ8÷õÔóš2J$4c096f2f-2c1e-4ff6-bdac-4d93abc3eb90
+w
+java:S3740
+"/Provide the parametrized type for this generic.(¡Ë¹ùúÿÿÿÿ8÷õÔóš2J$e094c722-3051-4f1f-9516-86ec81922a2c
+r
+java:S3740"/Provide the parametrized type for this generic.(¶Í°8÷õÔóš2J$379148cf-b8ff-4aef-a733-e5f5758d35a1
+r	java:S106"+Replace this use of System.out by a logger.(¨Áæ×ıÿÿÿÿ8úõÔóš2J$e00647ee-6189-407d-be32-535876d890d2
+r	java:S106"+Replace this use of System.out by a logger.(ßËÔ›úÿÿÿÿ8úõÔóš2J$021c1359-e54f-4734-ae13-7da7305e94f3
+m	java:S106"+Replace this use of System.out by a logger.(ŸåÕš8úõÔóš2J$7491e7ab-eacc-40bd-a07a-f87f049e87ca
+r	java:S106"+Replace this use of System.out by a logger.(¨Áæ×ıÿÿÿÿ8úõÔóš2J$2943bda9-6f6d-4ee2-a20c-6dcc556b2c14
+m	java:S106"+Replace this use of System.out by a logger.(Ì¥8úõÔóš2J$63c0f9c8-39ca-42af-a051-96da5862b1a6

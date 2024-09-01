@@ -1,0 +1,13 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ψ¨ξ―ύÿÿÿÿ8¦εθο2J$f22b3d32-b6f0-419c-9102-7e105f4483a8
+“	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ώξτΰ8¦εθο2J$01fa0bd5-d110-4290-9cbb-d89c4455c5b6
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(πΑ΅Γόÿÿÿÿ8¦εθο2J$30b86320-fda6-4826-9ab1-373e99bc70f1
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΥΒΪΜ8¦εθο2J$baada2bd-6f8f-457e-93e2-420929075553
+	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(γρ“ψÿÿÿÿ8ρ«σο2J$9d447b38-1924-49d3-a617-d35073ac5c33
+w
+java:S3740!"/Provide the parametrized type for this generic.(γρ“ψÿÿÿÿ8ήφυο2J$dc7fea91-b3a5-4dee-b000-0914d3a28927
+r	java:S106"+Replace this use of System.out by a logger.(»¤ϊΓωÿÿÿÿ8³εθο2J$d7b6bb40-97cf-40ce-b4aa-622be0f61e02
+r	java:S106"+Replace this use of System.out by a logger.(ΓΜγ»ψÿÿÿÿ8΄εθο2J$23855863-54af-4948-b328-8c515122d558
+m	java:S106"+Replace this use of System.out by a logger.(…±φξ8΄εθο2J$4fafece8-cb80-4e48-be62-8af19b65a3d4
+r	java:S106%"+Replace this use of System.out by a logger.(έ ÿÿÿÿÿ8ρ«σο2J$3db5cd20-de6b-4994-a42b-ba25cd277597
